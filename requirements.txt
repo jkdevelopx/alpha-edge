@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+yfinance
+supabase
+plotly
+ta  # คำนวณ indicator เร็วสุดในโลก
+requests
+python-dotenv
