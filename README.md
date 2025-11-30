@@ -26,3 +26,37 @@ Live Dashboard → https://jkdevelopx-alpha-edge.streamlit.app
 - GitHub Actions + Discord Webhooks
 
 ## Daily Alert Example
+``` bash
+Alpha Edge — Daily Signal Alert
+30 November 2025
+STRONG BUY — SOL-USD
+Price: $198.72
+RSI 38.1 • MACD Bullish • Strong Uptrend
+Support: 188.50 | Resistance: 205.00
+STRONG SELL — NVDA
+Price: $162.38
+RSI 78.9 • Overbought (BB)
+Support: 155.00 | Resistance: 165.00
+```
+
+
+## Tech Stack
+- Python, pandas, yfinance, ta-lib
+- Supabase (PostgreSQL)
+- Streamlit + Plotly
+- GitHub Actions + Discord Webhooks
+
+## Automation
+Fully automated daily data update and signal generation.  
+Even when the laptop is off, alerts are delivered every morning.
+
+<div align="center">
+  <sub>Built by <a href="https://github.com/jkdevelopx">jkdevelopx</a> • November 2025</sub>
+  <br>
+  <sub>Open to Quant, Algo Trading, and Data Engineering opportunities</sub>
+</div>
+EOF
+
+git add README.md
+git commit -m "docs: final professional README for Alpha Edge"
+git push origin main
