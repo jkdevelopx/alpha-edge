@@ -55,8 +55,3 @@ Even when the laptop is off, alerts are delivered every morning.
   <br>
   <sub>Open to Quant, Algo Trading, and Data Engineering opportunities</sub>
 </div>
-EOF
-
-git add README.md
-git commit -m "docs: final professional README for Alpha Edge"
-git push origin main
